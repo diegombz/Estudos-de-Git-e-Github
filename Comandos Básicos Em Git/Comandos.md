@@ -75,7 +75,7 @@ Esse comando cria uma **cópia de um repositório remoto em seu computador local
 ---
 
 - ```
-  git push origin main/master
+  git push origin main
   ```
 
 Esse comando **envia os commits do branch local do Git para um repositório remoto**, atualizando-o com suas alterações mais recentes.
