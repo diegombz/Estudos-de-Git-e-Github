@@ -7,7 +7,7 @@
 Esse comando **inicia um novo repositório Git** em um diretório, para criar um novo repositório enquanto *especifica o nome do projeto*, use o seguinte comando:
 
 - ```
-  git init [nome do projeto]
+  git init
   ```
 
 ---
