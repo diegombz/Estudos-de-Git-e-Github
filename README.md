@@ -3,6 +3,6 @@ Este repositório contém minhas anotações, resumos e aprendizados ao longo da
 
 ## Conteúdos :books:
 
-- **Comandos Básicos:** Comandos Git mais usados no dia a dia
+- **Comandos Básicos:** Comandos Git mais usados no dia a dia.
 - **Conceitos Básicos:** Introdução aos principais conceitos do Git, como repositórios, commits e branches.
 
