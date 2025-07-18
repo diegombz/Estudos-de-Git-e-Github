@@ -2,7 +2,7 @@
 
 ### Repositórios
 
-Um **repositório** é como uma pasta ou diretório que contém todos os arquivos e o histórico de um projeto.
+Um **repositório** é como uma pasta/diretório que contém todos os arquivos e o histórico de um projeto.
 
 ---
 
